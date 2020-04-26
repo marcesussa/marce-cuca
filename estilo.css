@@ -1,0 +1,28 @@
+h3 {
+    color: white;
+}
+
+body{
+    background-color: rosybrown;
+}
+
+#foto-Sena {
+    width: 50%;
+    height: auto;
+    margin: 50px;
+    align-self: center;
+}
+
+h5 {
+    text-align: center;
+}
+.card-image-top {
+    width: 20%;
+    height: auto;
+
+}
+
+#receita {
+    text-align:justify;
+    font-family: Verdana;
+}
